@@ -213,6 +213,8 @@ ROS每章节运行代码:
 
 * [无人机航点轨迹跟踪（PID 控制）](./air/waypoint_tracking.md)
 
+* [基于能耗模型的多航点访问顺序优化与巡航](./air/uav_waypoint_energy_optimizer/waypoint_energy_optimizer.md) —— 简化多旋翼能耗模型 + 最近邻/2-opt 搜索最省电的航点访问顺序，并按序自动巡航
+
 * [基于 GRU 的无人机飞行状态预测与 ROS2 在线误差分析](./air/state_prediction.md)
 
 * [MuJoCo 四旋翼仿真与 ROS2 桥接底座](./air/uav_mujoco_sim.md)
